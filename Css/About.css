@@ -1,0 +1,11 @@
+.background-image {
+  background-image: url("../image/About.jpg");
+  background-size: cover;
+  width: 100%;
+  height: 550px;
+}
+
+i {
+  color: #a97453;
+  padding: 5px;
+}

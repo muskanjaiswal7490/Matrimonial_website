@@ -1,0 +1,14 @@
+.background-image {
+  background-image: url("../image/About.jpg");
+  background-size: cover;
+  width: 100%;
+  height: 550px;
+}
+.blog-image {
+  object-fit: cover;
+  height: 400px;
+  width: 100%;
+}
+.blog-colored {
+  color: #a97453;
+}
